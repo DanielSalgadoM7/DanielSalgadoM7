@@ -21,6 +21,7 @@
     <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Daniel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Daniel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     <img align="right" alt="GIF" height="50%" width="50%" style="border-radius:100px;" src="https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif">
 
   </div>
   
@@ -31,14 +32,11 @@
   <a href = "mailto:dansalgado234@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/daniel-salgado-48a95b238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/DanielSalgadoM7"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+
   </div>
 
  ##
   ![Snake animation](https://github.com/DanielSalgadoM7/DanielSalgadoM7/blob/output/github-contribution-grid-snake.svg)
- 
-   <div>
-    <img align="center" alt="GIF" height="80%" width="100%" style="border-radius:100px;" src="https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif">
-  
-  </div>
   
   
