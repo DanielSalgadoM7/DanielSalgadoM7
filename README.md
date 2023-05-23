@@ -4,7 +4,7 @@
 - 📌 Trabalho para o Núcleo de Infraestrutura Tecnológica da Prefeitura de Belo Horizonte.
 - 📜 Atualmente aprendendo Java e C.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
-- 🎮 Fun fact: sou fã de jogos indie.
+- 🎮 Fun fact: Gosto de jogos indie e Soulslike no tempo livre.
 - 📫 Contate-me pelo e-mail: dansalgado234@gmail.com
 
 <!-- JANELA DE STATUS -->
@@ -26,9 +26,27 @@
   
 ##
   
-   <div style="display: inline_block" align="center" 
+   <div style="display: inline_block" align="center">
+  <h1>📲Contact me</h1><br>
   <a href="https://instagram.com/danielsalgado.07?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dansalgado234@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/daniel-salgado-48a95b238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://open.spotify.com/user/e0cpzz5j4qwgpy1ys6zfhiaid?si=0f93e9d91a7946b3"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://replit.com/@DanielSalgadoM7"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange"></a>
   </div>
+  
+  ##
+  
+  <div style="display: inline_block" align="center">
+    <h1><div>👾Jogos!</div></h1><br>
+  
+  
+   <div style="display: inline_block" align="right"> 
+     <div><img align="left" alt="GIF" height="50%" width="70%" style="border-radius:100px;" src="https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif"></div></div>
+    <ul><br><br><br><br>
+  <li><a href="https://instagram.com/danielsalgado.07?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a></li><br>
+  <li><a href = "mailto:dansalgado234@gmail.com"><img src= "https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a></li><br>
+  <li><a href = "https://www.linkedin.com/in/daniel-salgado-48a95b238/"><img src = "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a></li><br>
+  <li><a href="https://replit.com/@DanielSalgadoM7"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a></li><br>
+  <li> <a href="https://open.spotify.com/user/e0cpzz5j4qwgpy1ys6zfhiaid?si=0f93e9d91a7946b3"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a></li><br>
+    </ul>
+    </div>
