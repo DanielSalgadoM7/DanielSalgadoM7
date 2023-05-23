@@ -36,5 +36,9 @@
  ##
   ![Snake animation](https://github.com/DanielSalgadoM7/DanielSalgadoM7/blob/output/github-contribution-grid-snake.svg)
  
+   <div>
+    <img align="center" alt="GIF" height="80%" width="100%" style="border-radius:100px;" src="https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif">
+  
+  </div>
   
   
