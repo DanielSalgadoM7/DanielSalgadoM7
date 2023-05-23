@@ -1,10 +1,11 @@
 ## Olá! Me chamo Daniel Salgado.
 
-- 💡Estou no 1° período de Ciência da Computação pela PUC Minas.
+- 💡 Estou no 1° período de Ciência da Computação pela PUC Minas.
+- 📌 Trabalho para o Núcleo de Infraestrutura Tecnológica da Prefeitura de Belo Horizonte.
 - 📜 Atualmente aprendendo Java e C.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
-- 📫 Contate-me pelo e-mail: dansalgado234@gmail.com
 - 🎮 Fun fact: sou fã de jogos indie.
+- 📫 Contate-me pelo e-mail: dansalgado234@gmail.com
 
 <!-- JANELA DE STATUS -->
 
@@ -28,8 +29,8 @@
    <div> 
   <a href="https://instagram.com/danielsalgado.07?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dansalgado234@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dansalgado234@gmail.com"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dansalgado234@gmail.com"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/daniel-salgado-48a95b238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/DanielSalgadoM7"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
 
  ##
