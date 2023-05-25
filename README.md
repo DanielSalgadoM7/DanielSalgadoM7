@@ -4,7 +4,7 @@
 - 📌 Trabalho para o Núcleo de Infraestrutura Tecnológica da Prefeitura de Belo Horizonte.
 - 📜 Atualmente aprendendo Java e C.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
-- 🎮 Fun fact: Gosto de jogos indie e Soulslike no tempo livre.
+- 🎮 Fun fact: Sou fã de jogos indie (principalmente Hollow Knight).
 - 📫 Contate-me pelo e-mail: dansalgado234@gmail.com
 
 <!-- JANELA DE STATUS -->
