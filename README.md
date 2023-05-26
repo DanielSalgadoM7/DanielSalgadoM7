@@ -1,7 +1,7 @@
 ## Olá! Me chamo Daniel Salgado.
 
 - 💡 Estou no 1° período de Ciência da Computação pela PUC Minas.
-- 📌 Trabalho para o Núcleo de Infraestrutura Tecnológica da Prefeitura de Belo Horizonte.
+- 📌 Trabalho para o Núcleo de Infraestrutura Tecnológica.
 - 📜 Atualmente aprendendo Java e C.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 - 🎮 Fun fact: Sou fã de Hollow Knight.
