@@ -42,11 +42,11 @@
   
    <div style="display: inline_block" align="right"> 
      <div><img align="left" alt="GIF" height="50%" width="70%" style="border-radius:100px;" src="https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif"></div></div>
-    <ul><br><br><br><br>-->
+    <ul><br><br><br><br>
   <li><a href="https://steamcommunity.com/id/Daniel_Salgado/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a></li><br>
   <li><a href = "https://www.op.gg/summoners/br/blades%20n%20hits"><img src= "https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a></li><br>
   <li><a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=ZSeKFGB0Y7NhrRiZG5JFu26NGpAUzYtQY3qdDOpr-9rAhNaoywIsk0cZjWOjcDu75atoUOhSnjezFW_9XG3fo-7JZks1&wa=wsignin1.0"><img src = "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a></li><br>
   <li><a href="https://www.playstation.com/pt-br/playstation-network/"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a></li><br>
   <li> <a href="https://open.spotify.com/user/e0cpzz5j4qwgpy1ys6zfhiaid?si=0f93e9d91a7946b3"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a></li><br>
     </ul>
-    </div>
+    </div>-->
