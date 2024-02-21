@@ -13,7 +13,7 @@
   <a href="https://github.com/DanielSalgadoM7">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielSalgadoM7&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="185em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSalgadoM7&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielSalgadoM7&theme=dark&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)" height="180em" width="48%"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=DanielSalgadoM7&theme=dark&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)" height="180em" width="48%"/>
 </div>
   
    <div style="display: inline_block" align="center"><br>
