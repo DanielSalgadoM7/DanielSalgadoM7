@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/DanielSalgadoM7">
   <img height="185em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSalgadoM7&layout=compact&langs_count=7&theme=highcontrast"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=highcontrast&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielSalgadoM7&theme=highcontrast&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
   
    <div style="display: inline_block" align="center"><br>
