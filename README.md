@@ -27,7 +27,6 @@
   
    <div style="display: inline_block" align="center">
   <h1>📲Contact me</h1><br>
-  <a href="https://instagram.com/danielsalgado.07?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dansalgado234@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/daniel-salgado-48a95b238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://replit.com/@DanielSalgadoM7"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange"></a>
