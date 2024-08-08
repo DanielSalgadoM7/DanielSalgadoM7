@@ -2,7 +2,7 @@
 
 - 💡 Estou no 4° período de Ciência da Computação pela PUC Minas.
 - 📌 Trabalho como estagiário na empresa ABGi.
-- 📜 Atualmente aprendendo Java e C.
+- 📜 Atualmente aprendendo IA, Flutter e Grafos.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 - 🎮 Fun fact: Sou fã de Hollow Knight.
 - 📫 Contate-me pelo e-mail: dansalgado234@gmail.com
