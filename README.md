@@ -4,7 +4,7 @@
 - 📌 Trabalho como estagiário na empresa ABGi.
 - 📜 Atualmente aprendendo IA, Flutter e Grafos.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
-- 🎮 Fun fact: Sou fã de Hollow Knight.
+- 🎮 Fun fact: Sou fã de Hollow Knight e Souls Like.
 - 📫 Contate-me pelo e-mail: dansalgado234@gmail.com
 
 <!-- JANELA DE STATUS -->
