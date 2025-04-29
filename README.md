@@ -1,8 +1,8 @@
 ## Olá! Me chamo Daniel Salgado.
 
-- 💡 Estou no 4° período de Ciência da Computação pela PUC Minas.
+- 💡 Estou no 5° período de Ciência da Computação pela PUC Minas.
 - 📌 Trabalho como estagiário na empresa ABGi.
-- 📜 Atualmente aprendendo IA, Flutter e Grafos.
+- 📜 Atualmente aprendendo Grafos, Modelos Estruturais com Pipeline e criação de Sistemas Inteligentes.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 - 🎮 Fun fact: Sou fã de Hollow Knight e Souls Like.
 - 📫 Contate-me pelo e-mail: dansalgado234@gmail.com
